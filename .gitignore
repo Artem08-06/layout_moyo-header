@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IDE
 .idea
 .vscode
@@ -13,3 +14,16 @@ backstop_data
 dist
 .cache
 .parcel-cache
+=======
+node_modules/
+*.log
+.cache/
+.vscode/
+*.dat
+*.ini
+*.blf
+*.regtrans-ms
+NTUSER.*
+AppData/
+
+>>>>>>> b12077b (Merge upstream/master: resolve conflicts in config files)
