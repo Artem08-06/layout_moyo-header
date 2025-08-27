@@ -1,12 +1,10 @@
-<<<<<<< HEAD
-node_modules
-=======
 # IDE
 .idea
 .vscode
 
 # Node
-node_modules
+node_modules/
+*.log
 
 # MacOS
 .DS_Store
@@ -16,4 +14,15 @@ backstop_data
 dist
 .cache
 .parcel-cache
->>>>>>> upstream/master
+
+# Windows
+*.dat
+*.ini
+*.blf
+*.regtrans-ms
+NTUSER.*
+AppData/
+
+# OneDrive
+OneDrive/.849C9593-D756-4E56-8D6E-42412F2A707B
+OneDrive/*
